@@ -16,7 +16,7 @@
 <hr />
 
 
-<img src="img/teck_stack.png" alt="tech stack">
+<img src="img/tech_stack.png" alt="tech stack">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,html,c,cpp,python,apple,linux,md,bash,visualstudio,idea,pycharm&perline=6" />
